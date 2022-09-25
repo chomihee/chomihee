@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Language and Tools
- 1. Python 2. AirFlow 3. KafKa etc..
+ 1. Python 2. AirFlow 3. Tableau etc..
 
 <!--
 **chomihee/chomihee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
